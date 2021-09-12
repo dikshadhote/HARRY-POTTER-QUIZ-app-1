@@ -52,16 +52,31 @@ var questionList=[
     optionA:"Fawkes",
     optionB:"Phoenix",
     optionC:"Scabbers",
-    answer:"A"}
-
+    answer:"A"
+    },
+    {
+    question : "\nWhich type of insect is Ronald Weasley most afraid of?  ",
+    optionA:"Beetles",
+    optionB:"Spiders",
+    optionC:"Ants",
+    answer:"B"
+    },
+    {
+    question : "\nWhich house is Harry Potter in at Hogwarts? ",
+    optionA:"Gryffindor",
+    optionB:"Slytherin",
+    optionC:"Ravenclaw",
+    answer:"A"
+    }
+   
 ]
 //track of high score
 var highScore=[{
   Name:"Diksha",
-  score:3
+  score:5
 },{
   Name:"Aniket",
-  score:2
+  score:3
 }]
 
 //call function using each object of array
